@@ -1,5 +1,5 @@
 CREATE TABLE Catégories(
-   id INT,
+   id_Catégories INT,
    Nom VARCHAR(50),
    PRIMARY KEY(id)
 );
